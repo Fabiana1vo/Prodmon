@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Fontes globais do projeto */
+
+.font-Ubuntu {
+  font-family: "Ubuntu", sans-serif;
+}
+
+.font-Outfit {
+  font-family: "Outfit", sans-serif;
+}
