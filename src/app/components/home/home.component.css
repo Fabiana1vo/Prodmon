@@ -1,7 +1,24 @@
-@media (min-width: 576px) {
+/* @media (min-width: 576px) {
 
   .wrapper-box{
-    height: 70vh !important;
+    min-height: 70vh !important;
   }
+ } */
+
+
+
+ @media (max-width: 575.98px) {
+  .wrapper-box{
+    min-height: 70vh !important;
+  }
+
  }
 
+
+
+
+@media (max-width: 991.98px) {
+  .wrapper-box{
+    min-height: 50vh !important;
+  }
+ }
