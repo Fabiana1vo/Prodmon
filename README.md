@@ -1,27 +1,21 @@
-# Prodmon
+# Prodmon 🕝
+### **Este é o site (LP) do Prodmon**
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
+### O Prodmon ainda está em construção, mas você já pode acessar através da url: ([Prodmon](https://prodmon-landing-page.vercel.app/))
+
+> A PRODMON, como marca, possui um propósito que transcende suas aparências iniciais.  Acreditamos em construir algo além do óbvio, buscando constantemente desenvolver uma identidade que represente a produtividade e a mudança, sem jamais abandonar a ideia de consolidação. Acreditamos que a chave para o sucesso está na organização e praticidade.
+
+
+![Screenshot da página do Prodmon](https://i.ibb.co/Sm1nj0s/prodmon-landing-page-vercel-app.png)
+
+## Sobre o desenvolvimento da LP
+
+💻 Este projeto foi desenvolvido com o Angular ([Angular CLI](https://github.com/angular/angular-cli)), em sua versão 16.0.2.
+
+# A LP do Prodmon 
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Execute `ng serve` para iniciar um servidor de desenvolvimento. Acesse `http://localhost:4200/` em seu navegador. A aplicação será recarregada automaticamente caso você faça alguma alteração nos arquivos de origem.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
